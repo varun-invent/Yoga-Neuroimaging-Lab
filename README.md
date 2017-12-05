@@ -1,1 +1,1 @@
-# Yoga-Neuroimaging-Lab
+# Yoga Neuroimaging Lab, IIT Delhi
