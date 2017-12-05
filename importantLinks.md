@@ -1,3 +1,5 @@
 # Important Links
-1.Short Video Lectures' playlist  on Analyzing fMRI data using General Linear Model:
+1. Short Video Lectures' playlist  on Analyzing fMRI data using General Linear Model:
  https://www.youtube.com/watch?v=qgKm3EayUWY&list=PLyGKBDfnk-iA2c90e62zJTwIrCh7T1Y_I
+2. Looks like a nice tool to draw brain network graph:
+ https://www.nitrc.org/projects/bnv/
