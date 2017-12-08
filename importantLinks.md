@@ -5,3 +5,9 @@
  https://www.nitrc.org/projects/bnv/
 3. This one talks about when you should smooth the fMRI data:
  http://mindhive.mit.edu/book/export/html/112
+ 
+ 
+ 
+# New things to learn
+1. Processing of raw fMRI data (.fid files)
+(http://cbc.arizona.edu/rss/nmr/pdfs/process.pdf)
