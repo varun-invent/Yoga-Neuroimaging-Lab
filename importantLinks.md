@@ -13,6 +13,6 @@
 (http://cbc.arizona.edu/rss/nmr/pdfs/process.pdf)
 
 # Datasets
-2. List of existing shared neuroimaging data sets:
+1. List of existing shared neuroimaging data sets:
 https://www.nature.com/articles/nn.3818/tables/1
 
