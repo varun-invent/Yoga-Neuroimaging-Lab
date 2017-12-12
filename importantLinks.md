@@ -11,6 +11,8 @@
 # New things to learn
 1. Processing of raw fMRI data (.fid files)
 (http://cbc.arizona.edu/rss/nmr/pdfs/process.pdf)
+2. Nice intoduction from fMRI preprocessing till analysis:
+http://miykael.github.io/nipype-beginner-s-guide/neuroimaging.html
 
 # Datasets
 1. List of existing shared neuroimaging data sets:
