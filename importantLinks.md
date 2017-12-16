@@ -5,6 +5,8 @@
  https://www.nitrc.org/projects/bnv/
 3. This one talks about when you should smooth the fMRI data:
  http://mindhive.mit.edu/book/export/html/112
+4. This is a repository of nice links and papers:
+http://mindhive.mit.edu/
  
  
  
