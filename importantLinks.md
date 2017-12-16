@@ -7,7 +7,8 @@
  http://mindhive.mit.edu/book/export/html/112
 4. This is a repository of nice links and papers:
 http://mindhive.mit.edu/imaging
- 
+5. [How to install Nipype on Cerebrum?](installingNipype.md)
+6. [How to set VNC on your PC/laptop?](https://github.com/singlakdeepak/Wiki/blob/master/SetVNC.md)
  
  
 # New things to learn
