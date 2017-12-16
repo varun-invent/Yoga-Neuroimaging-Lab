@@ -8,7 +8,7 @@
  
  
 # New things to learn
-1. Processing of raw fMRI data (.fid files)
+1. [Processing of raw fMRI data (.fid files)](http://cbc.arizona.edu/rss/nmr/pdfs/process.pdf)
 2. [Nice intoduction from fMRI preprocessing till analysis](http://miykael.github.io/nipype-beginner-s-guide/neuroimaging.html)
 3. Basic neuroanatomy links:
 * [Basic Parts of the Brain - Part 1 - 3D Anatomy Tutorial](https://www.youtube.com/watch?v=D1zkVBHPh5c)
