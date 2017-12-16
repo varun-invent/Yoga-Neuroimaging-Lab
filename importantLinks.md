@@ -11,8 +11,8 @@
 1. [Processing of raw fMRI data (.fid files)](http://cbc.arizona.edu/rss/nmr/pdfs/process.pdf)
 2. [Nice intoduction from fMRI preprocessing till analysis](http://miykael.github.io/nipype-beginner-s-guide/neuroimaging.html)
 3. Basic neuroanatomy links:
-* [Basic Parts of the Brain - Part 1 - 3D Anatomy Tutorial](https://www.youtube.com/watch?v=D1zkVBHPh5c)
-* [The Brain](https://www.youtube.com/watch?v=kMKc8nfPATI) 
+ * [Basic Parts of the Brain - Part 1 - 3D Anatomy Tutorial](https://www.youtube.com/watch?v=D1zkVBHPh5c)
+ * [The Brain](https://www.youtube.com/watch?v=kMKc8nfPATI) 
 
 # Datasets
 1. [List of existing shared neuroimaging data sets](https://www.nature.com/articles/nn.3818/tables/1)
