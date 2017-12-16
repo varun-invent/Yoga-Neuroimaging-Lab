@@ -2,7 +2,7 @@
 1. [Looks like a nice tool to draw brain network graph](https://www.nitrc.org/projects/bnv/)
 2. [This one talks about when you should smooth the fMRI data](http://mindhive.mit.edu/book/export/html/112)
 3. [This is a repository of nice links and papers](http://mindhive.mit.edu/imaging)
-4. [How to install Nipype on Cerebrum?](installingNipype.md)
+4. [How to install Nipype on Cerebrum?](Scripts/installingNipype.md)
 5. [How to set VNC on your PC/laptop?](https://github.com/singlakdeepak/Wiki/blob/master/SetVNC.md)
  
  
