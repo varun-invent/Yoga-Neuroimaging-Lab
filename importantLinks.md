@@ -15,6 +15,7 @@
 4. [Online Course (Notes) for probability statistics](https://onlinecourses.science.psu.edu/stat414/node/3)
 5. [Short Video Lectures' playlist  on Analyzing fMRI data using General Linear Model](https://www.youtube.com/watch?v=qgKm3EayUWY&list=PLyGKBDfnk-iA2c90e62zJTwIrCh7T1Y_I)
 6. [Introduction to NMR, spins, complex numbers, fourier, k-space etc.](https://practicalfmri.blogspot.in/2012/02/physics-for-understanding-fmri.html)
+7. [MRI resources for beginers(collection of links)](http://jonathanpeelle.net/mri-resources-for-beginners/) 
 
 # Datasets
 1. [List of existing shared neuroimaging data sets](https://www.nature.com/articles/nn.3818/tables/1)
