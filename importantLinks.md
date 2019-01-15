@@ -4,6 +4,7 @@
 3. [This is a repository of nice links and papers](http://mindhive.mit.edu/imaging)
 4. [How to install Nipype on Cerebrum?](Scripts/installingNipype.md)
 5. [How to set VNC on your PC/laptop?](https://github.com/singlakdeepak/Wiki/blob/master/SetVNC.md)
+6. [MR Glossary - Contains a list of full forms of various acronyms found in MR literature.](https://www.depts.ttu.edu/research/ttni/downloads/MRGlossary.pdf)
  
  
 # New things to learn
