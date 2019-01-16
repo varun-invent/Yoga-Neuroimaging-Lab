@@ -5,6 +5,7 @@
 4. [How to install Nipype on Cerebrum?](Scripts/installingNipype.md)
 5. [How to set VNC on your PC/laptop?](https://github.com/singlakdeepak/Wiki/blob/master/SetVNC.md)
 6. [MR Glossary - Contains a list of definitions as well as full forms of various acronyms found in MR literature.](https://www.depts.ttu.edu/research/ttni/downloads/MRGlossary.pdf)
+7. [Book on Neuroanatomy. Could come handy when you need to know the function of a brain region.](https://www.unical.edu.ng/library/books/A%20Textbook%20of%20Neuroanatomy.pdf)
  
  
 # New things to learn
